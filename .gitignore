@@ -8,8 +8,6 @@ out/
 /broadcast/**/dry-run/
 
 # Dotenv file
-.env
-.vscode
 lcov.info
 
 # Invariant testing files
@@ -23,3 +21,5 @@ _corpus/
 coverage/
 .certora_internal/
 *.info
+config.bat
+node_modules
